@@ -1,6 +1,6 @@
 # jkcswd
 I am a self taught web developer currently looking for my first job in software engineering in London.
-## Tech
+## Skills
 - JavaScript (ES6+)
 - HTML
 - CSS
