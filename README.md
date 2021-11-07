@@ -5,6 +5,7 @@ I am a self taught web developer currently looking for my first job in software 
 - HTML
 - CSS
 - JSON
+- Jest
 - APIs
 - NPM
 - Webpack
