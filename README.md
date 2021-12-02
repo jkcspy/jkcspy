@@ -2,7 +2,8 @@
 I am a self taught web developer currently looking for my first job in London.
 ## Skills
 - JavaScript (ES6+)
-- React (Class Components)
+- React
+- React-Router-Dom
 - HTML
 - CSS
 - Sass/Scss
