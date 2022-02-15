@@ -2,6 +2,9 @@
 I am a self taught web developer currently looking for my first job in London.
 ## Skills
 - JavaScript (ES6+)
+- Express
+- MongoDB
+- Mongoose
 - React
 - React-Router-Dom
 - HTML
@@ -9,9 +12,7 @@ I am a self taught web developer currently looking for my first job in London.
 - Sass/Scss
 - JSON
 - Jest
-- API consumption
-- NPM
+- TDD
+- REST APIs
 - Webpack
-- Babel
-- ESLint
 - Unix (Linux)
