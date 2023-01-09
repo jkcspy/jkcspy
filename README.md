@@ -1,5 +1,5 @@
 # jkcswd
-I am a self taught web developer currently looking for a software job in London.
+Currently looking for a software development job in London.
 ## Skills
 - JavaScript (ES6+)
 - Express
