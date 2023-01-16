@@ -1,16 +1,16 @@
 # jkcswd
 Currently looking for a software development job in London.
 ## Skills
-- JavaScript (ES6+)
+- JavaScript
+- Python
 - Express
-- MongoDB
+- Flask
+- SQLalchemy
 - Mongoose
 - React
 - HTML
 - CSS
-- Sass/Scss
 - Jest
 - TDD
 - REST APIs
-- Webpack
 - Unix (Linux)
