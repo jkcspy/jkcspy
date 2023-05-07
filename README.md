@@ -1,5 +1,5 @@
 # jkcswd
-Currently looking for a software development job in London.
+
 ## Skills
 - JavaScript
 - Python
